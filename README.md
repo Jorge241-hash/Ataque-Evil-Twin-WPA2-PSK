@@ -3,7 +3,7 @@
 # ATAQUE EVIL TWIN CONTRA WPA2 PSK - HACKING ÉTICO - JORGE LÓPEZ ARCOS
 
 
-<img width="555" height="383" alt="imagen" src="https://github.com/user-attachments/assets/9b4f6421-4c4d-44a2-a621-1386b6d0859b" />
+<img width="1536" height="1024" alt="eviltwin" src="https://github.com/user-attachments/assets/67c579ae-33cb-4083-aec2-9e46ed426887" />
 
 
 </div>
