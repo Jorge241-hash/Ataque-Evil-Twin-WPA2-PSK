@@ -69,7 +69,9 @@ A continuación, muestro los siguientes enlaces a videos y tutoriales que me ha 
 
 - https://redtiseg.com/2025/03/09/evil-twin-attack-un-peligro-silencioso-en-redes-inalambricas/
   
-- 
+- https://www.kaspersky.es/resource-center/preemptive-safety/evil-twin-attacks
+
+-  
 
 
 
