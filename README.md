@@ -44,6 +44,8 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 - Máquina víctima: Con la máquina anfitriona funcionará como víctima para que se se conecte a la red vulnerable.     
 
+- Airgeddon: Herramienta Open Source que se utiliza para realizar auditorías de seguridad y pentesting en redes inalámbricas Wi-Fi.
+
 
 <br>
 <br>
@@ -51,12 +53,66 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 ## DESARROLLO DEL PROYECTO
 
+- Primero actualizo los repositorios y después instalo la herramienta Airgeddon.
 
+ ```bash
+# Actualizo los repositorios e instalo Airgeddon
+ sudo apt update
+
+ git clone https://github.com/v1s1t0r1sh3r3/airgeddon
+
+ cd airgeddon
+
+ sudo bash airgeddon.sh
+
+```
+
+<img width="550" height="332" alt="Captura1" src="https://github.com/user-attachments/assets/4c7e4f1b-d725-4295-a072-97244a001b0d" />
+
+<br> 
+
+<img width="550" height="332" alt="Captura2" src="https://github.com/user-attachments/assets/3e317519-43ba-45e0-92a6-06b0996b930f" />
+
+<br>
+
+<img width="350" height="200" alt="Captura4" src="https://github.com/user-attachments/assets/5e44bfba-7d22-42c0-97ab-e0aac0a736e7" />
 
 
 
 <br>
 <br>
+
+- Ahora ponemos la tarjeta en modo monitor y matamos los procesos.
+
+ ```bash
+# Mato los procesos y pongo la tarjeta en modo monitor
+
+ sudo airmon-ng check kill
+ sudo airmon-ng start wlan0
+
+```
+
+<img width="550" height="300" alt="Captura3" src="https://github.com/user-attachments/assets/0c2db72e-3634-411f-bbb8-012358f68806" />
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## CONCLUSIÓN
