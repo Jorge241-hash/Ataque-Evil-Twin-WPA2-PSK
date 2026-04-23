@@ -36,7 +36,13 @@ Este ataque llamado Evil Twin (Gemelos Malvados) es una técnica de hacking en l
 
 ## HERRAMIENTAS UTILIZADAS PARA LA REALIZACIÓN DEL PROYECTO
 
+Para la realización de este ataque van a ser necesarias las siguientes herramientas:
 
+- Máquina Kali Linux: Esta máquina funcionará como atacante en la que suplantaremos el punto de acceso Wi-Fi.
+
+- Alfa Network AWUS036ACH: Utilizaré esta tarjeta para poder obtener información acerca de las redes Wi-Fi y poder realizar el proyecto.
+
+- Máquina víctima: Con la máquina anfitriona funcionará como víctima para que se se conecte a la red vulnerable.     
 
 
 <br>
