@@ -78,7 +78,6 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <img width="350" height="200" alt="Captura4" src="https://github.com/user-attachments/assets/5e44bfba-7d22-42c0-97ab-e0aac0a736e7" />
 
 
-
 <br>
 <br>
 
@@ -97,12 +96,23 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
+- Una vez hemos ejecutado el **sudo bash airgeddon.sh**, en el menú elegimos la interfaz que vamos a usar.
 
+<br> 
 
+<img width="1002" height="315" alt="Captura5" src="https://github.com/user-attachments/assets/3bdfcc02-c305-418b-bf3c-f164f97081a1" />
 
+<br>
+<br>
 
+- Después de elegir la interfaz, elegimos la opción 5 para capturar el Handshake.
 
+<br>
 
+<img width="1003" height="529" alt="Captura6" src="https://github.com/user-attachments/assets/41899376-3455-4414-8b69-7011ad8488e6" />
+
+<br>
+<br>
 
 
 
