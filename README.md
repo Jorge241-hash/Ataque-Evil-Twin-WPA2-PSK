@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ATAQUE EVIL TWIN CONTRA WPA2 PSK - HACKING ÉTICO - JORGE LÓPEZ ARCOS
@@ -115,10 +116,43 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 
 
+- Ahora seleccionamos la opción 6 para capturar el handshake.
 
+<br>
 
+<img width="664" height="416" alt="Captura7" src="https://github.com/user-attachments/assets/c974ab94-14b4-4a3e-b721-0c1c27cb0bf9" />
 
+<br>
+<br>
 
+- Ahora seleccionamos la red que queremos atacar que en este caso es CETI
+
+<br>
+
+<img width="782" height="589" alt="Captura9" src="https://github.com/user-attachments/assets/a663aa57-82ae-4f91-a067-07b6f447111f" />
+
+<br>
+<br>
+
+- A continuación, seleccionamos la opción 2 para forzar tráfico y desautenticar a los usuarios.
+
+<br> 
+
+<img width="878" height="406" alt="Captura10" src="https://github.com/user-attachments/assets/d5d37b13-a178-453b-8657-ef903e583fbe" />
+
+<br>
+<br>
+
+- En esta captura muestro que puesto un límite de 100 segundos para generar el handshake y expulsar a los clientes de la red para forzarlos a reconectar.
+
+<br>
+
+<img width="1335" height="501" alt="Captura11" src="https://github.com/user-attachments/assets/d2cb4405-8161-4c7e-96cd-4517b010a600" />
+
+<br>
+<br>
+
+-    
 
 
 
