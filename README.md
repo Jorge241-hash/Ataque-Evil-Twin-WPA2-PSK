@@ -255,7 +255,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
-- 
+- Si vemos la redes Wi-Fi disponibles, podemos ver que se ha suplantado la red original de CETI. 
 
 <br>
 
@@ -264,7 +264,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
-- 
+- Por último, se muestra que se ha obtenido la contraseña de la red Wi-Fi y que el ataque se ha producido correctamente.
 
 <br>
 
