@@ -203,10 +203,80 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 - 
 
+<br>
 
+<img width="1366" height="642" alt="Captura16ç" src="https://github.com/user-attachments/assets/defa2eea-d866-4df7-bcc2-f99dc8066e78" />
+
+<br>
+<br>
+
+- 
+
+<br>
+
+<img width="1348" height="513" alt="Captura18" src="https://github.com/user-attachments/assets/c2555aa7-cfde-4438-a1e9-672aa8792d9f" />
+
+<br>
+<br>
+
+-
+
+<br>
+
+<img width="1304" height="577" alt="Captura19" src="https://github.com/user-attachments/assets/e9a5433c-1d73-4b05-9a24-1f245b308e7c" />
+
+<br>
+<br>
+
+-
+
+<br>
+
+<img width="1349" height="222" alt="Captura20" src="https://github.com/user-attachments/assets/730213d8-ade0-4706-be7b-770fa593d822" />
+
+<br>
+<br>
+
+- 
+
+<br>
+
+<img width="1356" height="603" alt="Captura21" src="https://github.com/user-attachments/assets/b63ce6a4-d097-40d1-8f03-91b93eb1bbce" />
+
+<br>
+<br>
+
+- 
+
+<br>
+
+<img width="683" height="733" alt="Captura22" src="https://github.com/user-attachments/assets/64ab864b-858c-45d6-b37e-6c4b60fa34de" />
+
+<br>
+<br>
+
+- 
+
+<br>
+
+<img width="681" height="557" alt="Captura23" src="https://github.com/user-attachments/assets/4e05d0a2-016a-4db7-9343-7122d301aa08" />
+
+<br>
+<br>
+
+- 
+
+<br>
+
+<img width="1361" height="363" alt="Captura24" src="https://github.com/user-attachments/assets/ac34edd2-5119-401c-a0ba-a167af50e366" />
+
+<br>
+<br>
 
 
 ## CONCLUSIÓN
+
+
 
 
 
