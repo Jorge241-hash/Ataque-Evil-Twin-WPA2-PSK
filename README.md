@@ -67,15 +67,15 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 ```
 
-<img width="550" height="332" alt="Captura1" src="https://github.com/user-attachments/assets/4c7e4f1b-d725-4295-a072-97244a001b0d" />
+<img width="700" height="332" alt="Captura1" src="https://github.com/user-attachments/assets/4c7e4f1b-d725-4295-a072-97244a001b0d" />
 
 <br> 
 
-<img width="550" height="332" alt="Captura2" src="https://github.com/user-attachments/assets/3e317519-43ba-45e0-92a6-06b0996b930f" />
+<img width="700" height="332" alt="Captura2" src="https://github.com/user-attachments/assets/3e317519-43ba-45e0-92a6-06b0996b930f" />
 
 <br>
 
-<img width="350" height="200" alt="Captura4" src="https://github.com/user-attachments/assets/5e44bfba-7d22-42c0-97ab-e0aac0a736e7" />
+<img width="400" height="200" alt="Captura4" src="https://github.com/user-attachments/assets/5e44bfba-7d22-42c0-97ab-e0aac0a736e7" />
 
 
 <br>
@@ -91,7 +91,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 ```
 
-<img width="550" height="300" alt="Captura3" src="https://github.com/user-attachments/assets/0c2db72e-3634-411f-bbb8-012358f68806" />
+<img width="700" height="300" alt="Captura3" src="https://github.com/user-attachments/assets/0c2db72e-3634-411f-bbb8-012358f68806" />
 
 <br>
 <br>
