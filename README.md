@@ -228,7 +228,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
--
+- Ahora aceptamos el portal cautivo.
 
 <br>
 
@@ -237,7 +237,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
-- 
+- Se muestra que el ataque está activo y su muestra varias ventanas del ataque como son el AP, DHCP, DNS y el control donde monitoriza y verifica la contraseña.
 
 <br>
 
