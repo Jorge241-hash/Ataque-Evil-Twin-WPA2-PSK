@@ -181,7 +181,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
-- En esta captura se 
+- En esta captura se muestra como hago el escaneo de todas las redes WiFi cercanas. 
 
 <br>
 
@@ -191,7 +191,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 
 
-- Seleccionamos el ataqe deauth aireplay con el fin de desautenticar a los cliente y cuando se intenten conectar de nuesvo generar el handshake.
+- Seleccionamos el ataque deauth aireplay con el fin de desautenticar a los clientes y cuando se intenten conectar de nuevo generar el handshake.
 
 <br>
 
@@ -210,7 +210,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
--  
+- En esta captura indico el fichero de handshake que quiero utilizar. 
 
 <br>
 
@@ -276,10 +276,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 ## CONCLUSIÓN
 
-
-
-
-
+En conclusión, me ha parecido un ataque bastante interesante en el que se muestra el procedimiento que utilizan los atacantes para suplantar la red Wifi original con el objetivo de analizar el tráfico de la red y obtener datos confidenciales como pueden ser la contraseña de la propia red o datos de cualquier usuario. Recomiendo a futuos alumnos realizar este proyecto porque ayuda bastante a entender el funcionamiento de la red Wi-Fi.
 
 
 <br>
@@ -295,7 +292,6 @@ A continuación, muestro los siguientes enlaces a videos y tutoriales que me ha 
 - https://www.kaspersky.es/resource-center/preemptive-safety/evil-twin-attacks
 
 - https://diegoaltf4.com/evil-twin/ 
-
 
 
 <br>
