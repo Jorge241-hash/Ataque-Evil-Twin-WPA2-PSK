@@ -285,7 +285,7 @@ En conclusión, me ha parecido un ataque bastante interesante en el que se muest
 
 ## BIBLIOGRAFÍA 
 
-A continuación, muestro los siguientes enlaces a videos y tutoriales que me ha servido para realizar este proyecto:
+A continuación, muestro los siguientes enlaces a vídeos y tutoriales que me han ayudado para realizar este proyecto:
 
 - https://redtiseg.com/2025/03/09/evil-twin-attack-un-peligro-silencioso-en-redes-inalambricas/
   
