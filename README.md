@@ -191,7 +191,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 
 
-- 
+- Seleccionamos el ataqe deauth aireplay con el fin de desautenticar a los cliente y cuando se intenten conectar de nuesvo generar el handshake.
 
 <br>
 
@@ -201,7 +201,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 
 
-- 
+- A continuación, seleccionamos la red de CETI con el objetivo de crear el portal cautivo y suplantarla.
 
 <br>
 
@@ -210,7 +210,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
-- 
+-  
 
 <br>
 
@@ -219,7 +219,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 <br>
 
--
+- Seleccionamos el idioma en el que cliente verán el portal cautivo.
 
 <br>
 
