@@ -116,7 +116,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 
 
-- Ahora seleccionamos la opción 6 para capturar el handshake.
+- En esta captura muestro como indico la opción 6 para capturar el handshake.
 
 <br>
 
