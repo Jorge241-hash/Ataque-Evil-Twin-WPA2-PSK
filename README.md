@@ -41,9 +41,7 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 
 - Máquina Kali Linux: Esta máquina funcionará como atacante en la que suplantaremos el punto de acceso Wi-Fi.
 
-- Alfa Network AWUS036ACH: Utilizaré esta tarjeta para poder obtener información acerca de las redes Wi-Fi y poder realizar el proyecto.
-
-- Máquina víctima: Con la máquina anfitriona funcionará como víctima para que se se conecte a la red vulnerable.     
+- Alfa Network AWUS036ACH: Utilizaré esta tarjeta para poder obtener información acerca de las redes Wi-Fi y poder realizar el proyecto. 
 
 - Airgeddon: Herramienta Open Source que se utiliza para realizar auditorías de seguridad y pentesting en redes inalámbricas Wi-Fi.
 
