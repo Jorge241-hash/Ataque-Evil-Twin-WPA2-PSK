@@ -272,9 +272,28 @@ Para la realización de este ataque van a ser necesarias las siguientes herramie
 <br>
 
 
+## MITIGACIÓN
+
+Para poder protegernos de los ataques de Evil Twin conviene realizar los siguientes aspectos: 
+
+- Actualizar a WPA3: Ofrece una protección mucho mejor frente a los ataques de fuerza bruta y Evil Twin gracias al protocolo SAE.
+
+- Cambiar contraseñas por defecto: Asignar una contraseña segura a tu router para dificultar a los atacantes.
+
+- Usar VPN: El uso de una VPN permite encriptar el tráfico de la red lo que provoca que el atacante solo veo los datos cifrados.
+
+- Desactivar la conexión automática: Evita conectarse de forma automática a todos los puntos de accesos Wi-Fi que te acerques.
+
+- No iniciar sesión en cuentas personales: Es de principal importancia no iniciar sesión en tus cuentas personales. Además, es muy importante no introducir datos de pago ni acceder a servicios de pago, como la banca por Internet.
+
+
+<br>
+<br>
+
+
 ## CONCLUSIÓN
 
-En conclusión, me ha parecido un ataque bastante interesante en el que se muestra el procedimiento que utilizan los atacantes para suplantar la red Wifi original con el objetivo de analizar el tráfico de la red y obtener datos confidenciales como pueden ser la contraseña de la propia red o datos de cualquier usuario. Recomiendo a futuos alumnos realizar este proyecto porque ayuda bastante a entender el funcionamiento de la red Wi-Fi.
+En conclusión, me ha parecido un ataque bastante interesante en el que se muestra el procedimiento que utilizan los atacantes para suplantar la red Wi-Fi original con el objetivo de analizar el tráfico de la red y obtener datos confidenciales como pueden ser la contraseña de la propia red o datos de cualquier usuario. Recomiendo a futuros alumnos a realizar este proyecto porque ayuda bastante a entender el funcionamiento de la red Wi-Fi.
 
 
 <br>
@@ -289,7 +308,9 @@ A continuación, muestro los siguientes enlaces a vídeos y tutoriales que me ha
   
 - https://www.kaspersky.es/resource-center/preemptive-safety/evil-twin-attacks
 
-- https://diegoaltf4.com/evil-twin/ 
+- https://diegoaltf4.com/evil-twin/
+
+- https://ciberseguridad.com/amenzas/ataque-evil-twin/
 
 
 <br>
