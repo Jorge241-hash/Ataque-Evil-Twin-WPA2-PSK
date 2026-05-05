@@ -23,7 +23,7 @@ Este ataque llamado Evil Twin (Gemelos Malvados) es una técnica de hacking en l
 
 -  **Fácil de implementar**: Se puede implementar con herramientas accesibles como Airbase-ng, Wifiphisher o EvilAP.
 
--  **Difícil de detectar para usuarios sin conociemientos de redes**: La gran mayoría de dispositivos se conectan automáticamente a redes con nombres comunes.
+-  **Difícil de detectar para usuarios sin conocimientos de redes**: La gran mayoría de dispositivos se conectan automáticamente a redes con nombres comunes.
 
 -  **Se explotan más las redes públicas y corporativas**: Este ataque suele ser más común en aeropuertos, cafeterías y hoteles.
 
